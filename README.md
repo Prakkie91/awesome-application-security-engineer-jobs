@@ -48,6 +48,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jko5zs8apibkwfhlwdtq.webp" width="24" height="24" alt="Chainguard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainguard](https://jobo.world/company/Chainguard)
 
+* **[Enterprise Business Development Representative - Mid Atlantic](https://job-boards.greenhouse.io/chainguard/jobs/4576278006)** — _n/a_ _(posted 2025-06-14)_
 * **[SLED Sales Engineer - US](https://job-boards.greenhouse.io/chainguard/jobs/4571354006)** — _n/a_ _(posted 2025-05-28)_
 * **[Federal Sales Engineer - DoD](https://job-boards.greenhouse.io/chainguard/jobs/4571358006)** — _n/a_ _(posted 2025-05-28)_
 * **[Commercial Sales Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4568010006)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
@@ -69,7 +70,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Engineer III - Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Product-Security--Remote-_R23391)** — _n/a_ _(posted 2025-06-04)_
-* **[Security Engineer - Bug Bounty (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Security-Engineer---Bug-Bounty--Remote-_R23321)** — _n/a_ _(posted 2025-05-22)_
 * **[Regional Sales Engineer, PubSec (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CO/Regional-Sales-Engineer--PubSec--Remote-_R23124)** — _n/a_ _(posted 2025-05-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
@@ -137,6 +137,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
+* **[Associate Sales Engineer](https://job-boards.greenhouse.io/huntress/jobs/6606735003)** — ¤115,000 – ¤130,000 USD _(posted 2025-06-14)_
 * **[Sales Engineer](https://job-boards.greenhouse.io/huntress/jobs/6599652003)** — ¤150,000 – ¤165,000 USD _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lpd70vmyfkzahpck0wiq.webp" width="24" height="24" alt="Illumina logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Illumina](https://jobo.world/company/Illumina)
@@ -152,14 +153,8 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Senior Desktop Software Engineer (C# / .NET)](https://apply.workable.com/keepersecurity/j/CA871D73FD/)** — _n/a_ _(posted 2025-06-11)_
 * **[QA Analyst, PEDM](https://apply.workable.com/keepersecurity/j/2EABED8F12/)** — _n/a_ _(posted 2025-05-28)_
 * **[Senior Software Engineer, Android](https://apply.workable.com/keepersecurity/j/BD295AC174/)** — _n/a_ _(posted 2025-05-23)_
-* **[Senior Software Engineer, iOS](https://apply.workable.com/keepersecurity/j/AC60276138/)** — _n/a_ _(posted 2025-05-23)_
 * **[Migration Engineer](https://apply.workable.com/keepersecurity/j/A507DFB84F/)** — _n/a_ _(posted 2025-04-08)_
 * **[Systems Support Engineer](https://apply.workable.com/keepersecurity/j/447286DBB1/)** — _n/a_ _(posted 2025-03-28)_
-* **[Systems Support Engineer](https://apply.workable.com/keepersecurity/j/ABCA651CC9/)** — _n/a_ _(posted 2025-03-28)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
-
-* **[Senior Software Engineer - EMV Chip Card](https://job-boards.greenhouse.io/kunai/jobs/4634386007)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjahxbscuxlyey0keefe.webp" width="24" height="24" alt="Loop logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Loop](https://jobo.world/company/Loop)
 
@@ -209,6 +204,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tckn4lxm8tiyawnuibs4.webp" width="24" height="24" alt="Protegrity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protegrity](https://jobo.world/company/Protegrity)
 
+* **[Director Software Engineering (GenAI Backend SWE) 717](https://jobs.ashbyhq.com/protegrity/bd93a2dd-2996-4689-82b6-061b85d51719)** — ¤220,000 – ¤244,000 USD _(posted 2025-06-14)_
 * **[Application Architect Cloud 691](https://jobs.ashbyhq.com/protegrity/cb778f28-8d00-4865-aa51-a6642b615cf9)** — ¤201,000 – ¤257,000 USD _(posted 2025-06-12)_
 * **[Lead Software Engineer -Full stack  675](https://jobs.ashbyhq.com/protegrity/348cd2b9-0f85-49fa-a900-4fcd61f0239e)** — ¤160,000 – ¤180,000 USD _(posted 2025-06-12)_
 
@@ -282,10 +278,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[AWS Cloud Security Engineer](https://job-boards.greenhouse.io/swishanalytics/jobs/4557769005)** — ¤110,000 – ¤145,000 USD _(posted 2025-04-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
-
-* **[Senior Software Engineer (Austin, TX)](https://jobs.ashbyhq.com%2Fthe%2520zebra%2F22d8a905-1d33-47c3-b841-8f53749fe809)** — _n/a_ _(posted 2025-05-31)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e5cjw3xjodg2qzawu8c9.webp" width="24" height="24" alt="Trail of Bits logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trail of Bits](https://jobo.world/company/TrailofBits)
 
 * **[Senior Security Engineer, Application Security](https://apply.workable.com/trailofbits/j/8CCA1C640A/)** — ¤10,000 USD _(posted 2025-06-06)_
@@ -306,9 +298,14 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Senior Software Engineer, Identity and Access Management (IAM)](https://jobs.ashbyhq.com/zip/7323c0b8-acf8-4704-bd83-ec7ee3dcbe47)** — ¤150,000 – ¤210,000 USD _(posted 2025-04-25)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dkj6ipzrzwyjesvh2iqc.webp" width="24" height="24" alt="Zoom logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zoom](https://jobo.world/company/Zoom)
+
+* **[Staff Security Engineer - Email](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Staff-Security-Engineer---Email_R16702-1)** — _n/a_ _(posted 2025-06-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ulk9wbhbqzmd0lzi4e5e.webp" width="24" height="24" alt="Zscaler logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zscaler](https://jobo.world/company/Zscaler)
 
+* **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 * **[Senior Principal Software Engineer (Security Clearance Required)](https://job-boards.greenhouse.io/zscaler/jobs/4758429007)** — _n/a_ _(posted 2025-06-10)_
 
 ---
-_Updated automatically — 2025-06-14_
+_Updated automatically — 2025-06-16_
