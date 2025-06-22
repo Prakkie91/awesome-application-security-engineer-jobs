@@ -54,6 +54,10 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Security Engineer](https://jobs.ashbyhq.com/chronospherejobs/12995d96-b168-42bc-becf-f9de398434d7)** — ¤200,000 – ¤250,000 USD _(posted 2025-06-05)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yamvkbjbwaijbnwtithj.webp" width="24" height="24" alt="ClassDojo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ClassDojo](https://jobo.world/company/ClassDojo)
+
+* **[Senior Full-Stack Engineer - Security](https://job-boards.greenhouse.io/classdojo/jobs/7001663)** — _n/a_ _(posted 2025-06-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
 
 * **[Product Security Engineer](https://jobs.ashbyhq.com/clerk/77d766db-7ea2-48ab-af79-220eca8a098b)** — _n/a_ _(posted 2025-04-30)_
@@ -94,7 +98,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wphonb8efwjanrklgoy1.webp" width="24" height="24" alt="Endor Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Endor Labs](https://jobo.world/company/Endor-Labs)
 
-* **[Sales Leadership/Director Level](https://job-boards.greenhouse.io/endorlabs/jobs/4536912005)** — _n/a_ _(posted 2025-04-15)_
 * **[Customer Success Engineer](https://job-boards.greenhouse.io/endorlabs/jobs/4538968005)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fitj6r32co0te54kphau.webp" width="24" height="24" alt="EnergyHub logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EnergyHub](https://jobo.world/company/EnergyHub)
@@ -311,4 +314,4 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-06-21_
+_Updated automatically — 2025-06-22_
