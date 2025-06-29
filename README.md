@@ -52,7 +52,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Enterprise Business Development Representative - Mid Atlantic](https://job-boards.greenhouse.io/chainguard/jobs/4576278006)** — _n/a_ _(posted 2025-06-14)_
 * **[Federal Sales Engineer - DoD](https://job-boards.greenhouse.io/chainguard/jobs/4571358006)** — _n/a_ _(posted 2025-05-28)_
-* **[Commercial Sales Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4568010006)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/id82rffdtflzgytga1hv.webp" width="24" height="24" alt="Chronosphere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chronosphere](https://jobo.world/company/Chronosphere)
 
@@ -130,6 +129,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ih7xwdumptjo0d31rw7e.webp" width="24" height="24" alt="HackerOne logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HackerOne](https://jobo.world/company/HackerOne)
 
 * **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/1a9d0d89-58ac-4445-9645-d27422f797e0)** — ¤147,000 – ¤184,000 USD _(posted 2025-05-23)_
+* **[Staff Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/4c39767e-5adb-457c-90d4-15fb8de843f2)** — ¤170,000 – ¤211,000 USD _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
@@ -308,4 +308,4 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-06-28_
+_Updated automatically — 2025-06-29_
