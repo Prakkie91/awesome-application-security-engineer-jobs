@@ -27,6 +27,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmk89815sfaplzwlwfj2.webp" width="24" height="24" alt="Arrow Electronics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arrow Electronics](https://jobo.world/company/Arrow-Electronics)
 
 * **[Field Applications Engineer](https://arrow.wd1.myworkdayjobs.com/ac/job/US-GA-Alpharetta-Georgia-Remote/Field-Applications-Engineer_R233717)** — _n/a_ _(posted 2025-06-20)_
+* **[Field Applications Engineer](https://arrow.wd1.myworkdayjobs.com/ac/job/US-UT-Utah-Remote-Employees/Field-Applications-Engineer_R229185)** — _n/a_ _(posted 2025-02-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kvoglsnzr9qoignq1v12.webp" width="24" height="24" alt="Astra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Astra](https://jobo.world/company/Astra)
 
@@ -79,10 +80,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Senior Manager, IT Security](https://jobs.ashbyhq.com/dandy/e1f7b3a6-c79a-414a-962c-a18a13a8b9a0)** — ¤166,000 – ¤207,000 USD _(posted 2025-06-25)_
 * **[Staff Software Engineer - Security](https://jobs.ashbyhq.com/dandy/8a9ba1b1-842f-4d5a-844f-3273448e8717)** — ¤230,000 – ¤257,000 USD _(posted 2025-05-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uy3ifw1k0xtbsujpqhns.webp" width="24" height="24" alt="Dick's Sporting Goods logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dick's Sporting Goods](https://jobo.world/company/Dicks-Sporting-Goods)
-
-* **[Solution Architect - Security (REMOTE)](https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/Remote---US/Solution-Architect---Security--REMOTE-_202502338)** — _n/a_ _(posted 2025-05-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dk4b0wh7a7bjmrawfziu.webp" width="24" height="24" alt="DroneDeploy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DroneDeploy](https://jobo.world/company/DroneDeploy)
 
@@ -308,4 +305,4 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-06-29_
+_Updated automatically — 2025-06-30_
