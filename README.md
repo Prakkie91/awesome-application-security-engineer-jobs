@@ -27,10 +27,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Senior Security Administrator](https://job-boards.greenhouse.io/arine/jobs/5585985004)** — _n/a_ _(posted 2025-07-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmk89815sfaplzwlwfj2.webp" width="24" height="24" alt="Arrow Electronics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arrow Electronics](https://jobo.world/company/Arrow-Electronics)
-
-* **[Field Applications Engineer](https://arrow.wd1.myworkdayjobs.com/ac/job/US-GA-Alpharetta-Georgia-Remote/Field-Applications-Engineer_R233717)** — _n/a_ _(posted 2025-06-20)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
 * **[Senior/Lead Infrastructure Security Engineer](https://jobs.ashbyhq.com/biorender/dfcabba5-dd9b-43ce-85f9-23e9f634fc8f)** — _n/a_ _(posted 2025-04-15)_
@@ -107,7 +103,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ivnsknzbhcbrzay54qdm.webp" width="24" height="24" alt="Foundation Risk Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foundation Risk Partners](https://jobo.world/company/Foundation-Risk-Partners)
 
 * **[Application Architect- MSI](https://baldwinriskpartners.wd1.myworkdayjobs.com/brp/job/Remote-US/Application-Architect--MSI_JR107526-1)** — _n/a_ _(posted 2025-03-28)_
-* **[Senior Software Engineer- MSI](https://baldwinriskpartners.wd1.myworkdayjobs.com/brp/job/Remote-US/Senior-Software-Engineer--MSI_JR107525-1)** — _n/a_ _(posted 2025-03-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
@@ -115,6 +110,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ih7xwdumptjo0d31rw7e.webp" width="24" height="24" alt="HackerOne logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HackerOne](https://jobo.world/company/HackerOne)
 
+* **[Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/5128993f-1c5b-4ae1-96d3-ee92dae5bb90)** — ¤150,000 – ¤220,000 USD _(posted 2025-07-11)_
 * **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/1a9d0d89-58ac-4445-9645-d27422f797e0)** — ¤147,000 – ¤184,000 USD _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
@@ -123,6 +119,8 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
+* **[Senior Offensive Security Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Offensive-Security-Engineer_R-382167)** — _n/a_ _(posted 2025-07-10)_
+* **[Lead, Offensive Security(remote)](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Lead--Offensive-Security-remote-_R-381562)** — _n/a_ _(posted 2025-07-10)_
 * **[CyberSecurity Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/CyberSecurity-Engineer_R-381711)** — _n/a_ _(posted 2025-07-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
@@ -135,6 +133,10 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lpd70vmyfkzahpck0wiq.webp" width="24" height="24" alt="Illumina logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Illumina](https://jobo.world/company/Illumina)
 
 * **[Sr Product Security Engineer](https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---Remote/Sr-Product-Security-Engineer_40756-JOB-1)** — _n/a_ _(posted 2025-05-21)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lzpjhjgwtoqmqlja1op6.webp" width="24" height="24" alt="Injective Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Injective Labs](https://jobo.world/company/Injective-Labs)
+
+* **[Security Engineer](https://jobs.ashbyhq.com/injective-labs/cb59e282-9bc9-48cb-aff5-22c3af1e95f8)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxgbfxu6zzwvq8obqunk.webp" width="24" height="24" alt="Kalshi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalshi](https://jobo.world/company/Kalshi)
 
@@ -160,10 +162,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iuhpcceshtzjaftxt8fh.webp" width="24" height="24" alt="Manifold Bio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Manifold Bio](https://jobo.world/company/ManifoldBio)
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/manifoldai/jobs/6608251003)** — _n/a_ _(posted 2025-06-13)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/utghmamw0pzfl9wxchkz.webp" width="24" height="24" alt="Maze logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Maze](https://jobo.world/company/Maze)
-
-* **[Copy of Security Consultant](https://jobs.ashbyhq.com/mazehq/d4255d15-5bb5-4c0d-b87b-29957a2dd43f)** — ¤120,000 – ¤140,000 USD _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac0nmn8nizlavraea6ot.webp" width="24" height="24" alt="Meter logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Meter](https://jobo.world/company/Meter)
 
@@ -238,10 +236,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Principal Engineer - Platform Architecture](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Remote-San-Jose-California-USA/Principal-Engineer---Platform-Architecture_R010897)** — _n/a_ _(posted 2025-06-02)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oaw4ct5gyw4fxhtdshgo.webp" width="24" height="24" alt="Sanity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sanity](https://jobo.world/company/Sanityio)
-
-* **[Senior Product Security Engineer](https://jobs.ashbyhq.com/sanity/0e37bc20-f8de-44fb-977d-e2c3ca41c185)** — _n/a_ _(posted 2025-05-02)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
 
 * **[Enterprise Sales Engineer](https://jobs.ashbyhq.com/sardine/850f5ea2-0d73-4b9c-be41-8e23f8ba24bb)** — ¤200,000 – ¤240,000 USD _(posted 2025-05-13)_
@@ -253,7 +247,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
 
-* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069400485-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-08)_
+* **[Senior Information Security Analyst](https://jobs.smartrecruiters.com/ServiceNow/744000069877636-senior-information-security-analyst?oga=true)** — _n/a_ _(posted 2025-07-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
@@ -314,4 +308,4 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Resident Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4748890007)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-11_
+_Updated automatically — 2025-07-12_
