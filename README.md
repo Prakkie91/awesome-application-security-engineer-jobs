@@ -44,11 +44,8 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
+* **[Sr. Network Security Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Network-Security-Engineer_JR7991)** — _n/a_ _(posted 2025-07-15)_
 * **[Principal Security Architect](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Principal-Security-Engineer---Network_JR7216)** — _n/a_ _(posted 2025-03-06)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jko5zs8apibkwfhlwdtq.webp" width="24" height="24" alt="Chainguard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainguard](https://jobo.world/company/Chainguard)
-
-* **[Federal Sales Engineer - DoD](https://job-boards.greenhouse.io/chainguard/jobs/4571358006)** — _n/a_ _(posted 2025-05-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kbjuvkagbkxjkxj883nu.webp" width="24" height="24" alt="Chainlink Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainlink Labs](https://jobo.world/company/Chainlink-Labs)
 
@@ -61,10 +58,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yamvkbjbwaijbnwtithj.webp" width="24" height="24" alt="ClassDojo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ClassDojo](https://jobo.world/company/ClassDojo)
 
 * **[Senior Full-Stack Engineer - Security](https://job-boards.greenhouse.io/classdojo/jobs/7001663)** — _n/a_ _(posted 2025-06-21)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
-
-* **[Product Security Engineer](https://jobs.ashbyhq.com/clerk/77d766db-7ea2-48ab-af79-220eca8a098b)** — _n/a_ _(posted 2025-04-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjnqilvzymfaorbrkuax.webp" width="24" height="24" alt="CodePath logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CodePath](https://jobo.world/company/CodePath)
 
@@ -89,6 +82,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. Technical Support Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Technical-Support-Engineer--Remote-_R23943)** — _n/a_ _(posted 2025-07-15)_
 * **[Sr. Application Security Engineer - Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Application-Security-Engineer---Product-Security--Remote-_R23848)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
@@ -139,10 +133,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Senior Security Engineer](https://job-boards.greenhouse.io/humaninterest/jobs/6822325)** — _n/a_ _(posted 2025-05-09)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
-
-* **[Senior Offensive Security Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Senior-Offensive-Security-Engineer_R-382167)** — _n/a_ _(posted 2025-07-10)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tbsfjuwuyescyatdwvwq.webp" width="24" height="24" alt="Huntress logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Huntress](https://jobo.world/company/Huntress)
 
 * **[Manager, Software Engineering](https://job-boards.greenhouse.io/huntress/jobs/6620636003)** — ¤170,000 – ¤195,000 USD _(posted 2025-07-09)_
@@ -155,10 +145,13 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Security Engineer](https://jobs.ashbyhq.com/injective-labs/cb59e282-9bc9-48cb-aff5-22c3af1e95f8)** — _n/a_ _(posted 2025-07-11)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pmruzlkon9xrjd4tdxdf.webp" width="24" height="24" alt="Intradiem logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Intradiem](https://jobo.world/company/Intradiem)
+
+* **[Manager, DevSecOps](https://job-boards.greenhouse.io/intradiem/jobs/4583163006)** — _n/a_ _(posted 2025-07-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
 * **[Senior Software Engineer, Web Vault (Frontend)](https://apply.workable.com/keepersecurity/j/B4A5DD88B7/)** — _n/a_ _(posted 2025-06-11)_
-* **[Migration Engineer](https://apply.workable.com/keepersecurity/j/A507DFB84F/)** — _n/a_ _(posted 2025-04-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z5v6zayaolbam9nz2cea.webp" width="24" height="24" alt="Lumos logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Lumos](https://jobo.world/company/Lumos)
 
@@ -320,6 +313,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e5cjw3xjodg2qzawu8c9.webp" width="24" height="24" alt="Trail of Bits logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trail of Bits](https://jobo.world/company/TrailofBits)
 
+* **[Senior Sales Engineer (II)](https://apply.workable.com/trailofbits/j/DAC6643FC1/)** — ¤10,000 USD _(posted 2025-07-14)_
 * **[Senior Security Engineer, Application Security](https://apply.workable.com/trailofbits/j/8CCA1C640A/)** — ¤10,000 USD _(posted 2025-06-06)_
 * **[Senior Software Security Engineer, Research & Engineering](https://apply.workable.com/trailofbits/j/1BF5B708C2/)** — ¤10,000 USD _(posted 2025-05-16)_
 
@@ -344,4 +338,4 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Customer Support Engineer - Mobile Apps &amp; Cybersecurity (Dallas Based - Hybrid)](https://jobs.lever.co/zimperium/e73a9add-3ee5-48d8-824f-cc68379ea373)** — _n/a_ _(posted 2025-01-28)_
 
 ---
-_Updated automatically — 2025-07-16_
+_Updated automatically — 2025-07-17_
