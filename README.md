@@ -18,6 +18,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[VP of Product Security, Remote](https://jobs.lever.co/aledade/ea1b6e3b-8411-45bc-a1e7-68f3bdc0697a)** — _n/a_ _(posted 2025-06-10)_
 * **[Staff Security Engineer (Forensic Engineer), Remote](https://jobs.lever.co/aledade/c0395e8b-2a9a-4573-aca7-f37e21d861a2)** — _n/a_ _(posted 2025-05-09)_
+* **[Staff Security Engineer (IAM), Remote](https://jobs.lever.co/aledade/b6f2be3e-eb19-4bd9-8d54-40296ccce38f)** — _n/a_ _(posted 2025-03-05)_
 * **[Senior Security Engineer II (Engineering &amp; Tooling), Remote](https://jobs.lever.co/aledade/8a3a98a6-c44f-474c-b5f7-b3f0f9f3a5df)** — _n/a_ _(posted 2025-01-27)_
 * **[Senior Security Engineer I - Application Security, Remote](https://jobs.lever.co/aledade/18c4f5c0-7b1d-4199-a467-0dcf76a37b08)** — _n/a_ _(posted 2025-01-22)_
 * **[Senior Security (DevSecOps) Engineer II, Remote](https://jobs.lever.co/aledade/5162ca9f-b6da-4774-a041-c3ba6d8a315d)** — _n/a_ _(posted 2024-10-29)_
@@ -88,6 +89,15 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
 
 * **[Staff Software Engineer - Security](https://jobs.ashbyhq.com/dandy/8a9ba1b1-842f-4d5a-844f-3273448e8717)** — ¤230,000 – ¤257,000 USD _(posted 2025-05-22)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d5rusk3oeplprdzwaplj.webp" width="24" height="24" alt="Degreed logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Degreed](https://jobo.world/company/Degreed)
+
+* **[Offensive Security Engineer](https://job-boards.greenhouse.io/degreed/jobs/5575212004)** — _n/a_ _(posted 2025-07-17)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/numhti7b6zfmpjeszdjp.webp" width="24" height="24" alt="Ditto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ditto](https://jobo.world/company/Ditto)
+
+* **[Senior Security Engineer](https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4585016006)** — _n/a_ _(posted 2025-07-17)_
+* **[Senior Software Engineer- Networking Security](https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4573746006)** — _n/a_ _(posted 2025-06-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qu9jqnedghpqqymgn9qw.webp" width="24" height="24" alt="Docker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Docker](https://jobo.world/company/Docker)
 
@@ -275,13 +285,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Enterprise Sales Engineer](https://jobs.ashbyhq.com/sardine/850f5ea2-0d73-4b9c-be41-8e23f8ba24bb)** — ¤200,000 – ¤240,000 USD _(posted 2025-05-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
-
-* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070554741-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
-* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070556197-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
-* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070556125-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
-* **[Staff Information Security Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000070555645-staff-information-security-engineer?oga=true)** — _n/a_ _(posted 2025-07-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yhm5ssfvyrtsa8ejlhez.webp" width="24" height="24" alt="Sezzle logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sezzle](https://jobo.world/company/Sezzle)
 
 * **[Sezzle Talent Community - General Interest](https://job-boards.greenhouse.io/sezzle/jobs/4678126003)** — _n/a_ _(posted 2025-04-26)_
@@ -338,4 +341,4 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Customer Support Engineer - Mobile Apps &amp; Cybersecurity (Dallas Based - Hybrid)](https://jobs.lever.co/zimperium/e73a9add-3ee5-48d8-824f-cc68379ea373)** — _n/a_ _(posted 2025-01-28)_
 
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
