@@ -84,6 +84,7 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Penetration Test Engineer II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Penetration-Test-Engineer-II--Remote-_R23991)** — _n/a_ _(posted 2025-07-22)_
 * **[Sr. MacOS Sensor Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-MacOS-Sensor-Engineer--Remote-_R24014)** — _n/a_ _(posted 2025-07-22)_
 * **[Sr. Application Security Engineer - Product Security (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Application-Security-Engineer---Product-Security--Remote-_R23848)** — _n/a_ _(posted 2025-07-11)_
+* **[Engineer III - Product Security, Fed Cloud (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Product-Security--Fed-Cloud--Remote-_R23137-1)** — _n/a_ _(posted 2025-05-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zfzy0pnihj8axqnjxtki.webp" width="24" height="24" alt="Dandy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dandy](https://jobo.world/company/Dandy)
 
@@ -166,6 +167,11 @@ Browse a wide range of remote Application Security Engineer positions available 
 
 * **[Threat Simulation Environment Administrator](https://jobs.lever.co/makpar/13f91c75-51a3-4388-ab82-f33962525e1e)** — _n/a_ _(posted 2025-06-03)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac9ek3cianx4jwsfjvd6.webp" width="24" height="24" alt="Marqeta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Marqeta](https://jobo.world/company/Marqeta)
+
+* **[Enterprise Applications Engineer (Finance, ERP, Procurement)](https://job-boards.greenhouse.io/marqeta/jobs/7122789)** — _n/a_ _(posted 2025-07-31)_
+* **[Enterprise Applications Engineer (Finance, ERP, Procurement)](https://job-boards.greenhouse.io/mqreferrals/jobs/7122790)** — _n/a_ _(posted 2025-07-31)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pnwdqpdiaxfiitadf4ga.webp" width="24" height="24" alt="Modernizing Medicine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Modernizing Medicine](https://jobo.world/company/ModMed)
 
 * **[Lead Cloud Security Engineer](https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8038925002)** — _n/a_ _(posted 2025-06-18)_
@@ -196,7 +202,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mtjdghbxvseizkan336m.webp" width="24" height="24" alt="OpenAI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenAI](https://jobo.world/company/OpenAI)
 
 * **[Enterprise Security Engineer](https://jobs.ashbyhq.com/openai/47048627-427e-4566-b349-847e52a5def1)** — ¤260,000 – ¤325,000 USD _(posted 2025-05-13)_
-* **[Security Engineer, Data Center Security](https://jobs.ashbyhq.com/openai/4efa5099-9fc6-459b-8ace-c47fb8677f90)** — ¤346,500 – ¤465,000 USD _(posted 2025-03-12)_
 * **[Security Engineer, Cloud Security](https://jobs.ashbyhq.com/openai/1705c3b2-7f3a-42bf-99a9-c23ba161a90d)** — ¤279,000 – ¤385,000 USD _(posted 2025-03-12)_
 * **[Distributed Systems Engineer, Security](https://jobs.ashbyhq.com/openai/2632a365-969a-4966-bbee-127ede6f7742)** — ¤300,000 – ¤885,000 USD _(posted 2025-03-12)_
 
@@ -326,11 +331,6 @@ Browse a wide range of remote Application Security Engineer positions available 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
 * **[Senior Software Engineer, Infrastructure and Security](https://jobs.ashbyhq.com/vanta/63123fca-23fc-4b53-a642-1d2830456f69)** — ¤179,000 – ¤211,000 USD _(posted 2025-05-07)_
-* **[Senior Security Engineer](https://jobs.ashbyhq.com/vanta/b6eea326-7fbc-4ad7-815c-51055285c7c7)** — ¤218,000 – ¤256,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pp9a1vcfqxflxrhibamz.webp" width="24" height="24" alt="Vercel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vercel](https://jobo.world/company/Vercel)
-
-* **[Sales Engineer, West](https://job-boards.greenhouse.io/vercel/jobs/5347669004)** — _n/a_ _(posted 2025-05-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxcvozqueteejtcddkuj.webp" width="24" height="24" alt="Zimperium logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zimperium](https://jobo.world/company/Zimperium)
 
@@ -341,4 +341,4 @@ Browse a wide range of remote Application Security Engineer positions available 
 * **[Staff Security Engineer - Email](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Staff-Security-Engineer---Email_R16702-1)** — _n/a_ _(posted 2025-06-14)_
 
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
